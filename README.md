@@ -17,6 +17,10 @@ tags:
 The fine-tuned model is available on Hugging Face Hub:  
 👉 [haydarkadioglu/Qwen3-0.6B-lora-python-expert-fine-tuned](https://huggingface.co/haydarkadioglu/Qwen3-0.6B-lora-python-expert-fine-tuned)
 
+## Training Notebook (Google Colab)
+
+You can reproduce the fine-tuning process or adapt it for your own dataset using the Colab notebook:  
+👉 [Open in Google Colab](https://colab.research.google.com/drive/17mU5LFWT6JQ5uDI8FGGugyEkKnykw4Xj?usp=sharing)
 
 # haydarkadioglu/Qwen3-0.6B-lora-python-expert
 
